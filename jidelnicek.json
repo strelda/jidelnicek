@@ -1,0 +1,235 @@
+{
+    "22":{
+        "sv1":{
+            "co": "bagetky",
+            "kolik": "1 ks bagetka + 0.02 kg sýr + 0.02 kg šunka + 0.1 ks paprika"
+        },
+        "obed":{
+            "co": "těstovinový salát s jogurtem a strouhaným sýrem navrch",
+            "kolik": "0.08 kg těstoviny + 0.03 kg sýr + 0.02 kg majonéza + 0.02 kg bílý jogurt + 0.1 ks okurka + 0.2 ks paprika + 0.005 kg majonéza + 0.02 kg kukuřice + 0.02 kg hrášek + 0.02 kg červená řepa"
+        },
+        "sv2":{
+            "co": "banán",
+            "kolik": "1 ks banán"
+        },
+        "vecere":{
+            "co": "zapékaná krkovice pod bramborama, pečené v troubě, zalité vejcem a šlehačkou",
+            "kolik": "0.15 kg krkovice + 0.25 kg brambory + 1 ks vejce + 0.02 kg šlehačka",
+            "recept": ""
+        }
+    },
+    "23":{
+        "sv1":{
+            "co": "lipánek",
+            "kolik": "1 ks lipánek"
+        },
+        "obed":{
+            "co": "špagety po italsku",
+            "kolik": "0.15 kg špagety + 0.05 kg cherry rajčata + 0.005 kg citron + 0.05 kg olivový olej + 0.05 kg mozarella + 0.001 kg česnek + 0.01 kg olivy",
+            "recept": ""
+        },
+        "sv2":{
+            "co": "buchty od mam, případně jablko",
+            "kolik": "1 ks nic"
+        },
+        "vecere":{
+            "co": "šišky s mákem",
+            "kolik": "1 ks vejce + 0.15 kg brambory + 0.065 kg hrubá mouka + 0.03 kg moučkový cukr + 0.01 kg máslo + 0.03 kg mák",
+            "recept": ""
+        }
+    },
+    "24":{
+        "sv1":{
+            "co": "jablko",
+            "kolik": "1 ks jablko"
+        },
+        "obed":{
+            "co": "boršč + zapečené brambory",
+            "kolik": "0.035 kg brambory + 0.035 kg zelí + 0.005 kg rajský protlak + 0.05 kg červená řepa + 0.1 kg kořenová zelenina + 0.01 kg zakysaná smetana  + 0.1 kg brambory + 0.03 kg mražená kukuřice + 0.06 kg mražený hrášek + 0.03 kg kečup + 0.25 ks cibule + 0.03 kg klobása + 1 ks vejce"
+        },
+        "sv2":{
+            "co": "jogurt",
+            "kolik": "1 ks jogurt"
+        },
+        "vecere":{
+            "co": "tortilly",
+            "kolik": "2 ks tortilla placky + 0.1 kg kuřecí maso + 0.2 kg zeleninová směs na tortilly + 0.07 kg fazole + 0.02 kg sýr"
+        }
+    },
+    "25":{
+        "sv1":{
+            "co": "meloun",
+            "kolik": "0.025 ks meloun"
+        },
+        "obed":{
+            "co": "brokoliová polévka + masové kuličky s Ikea omáčkou a vařené brambory",
+            "kolik": "0.05 kg brokolice + 0.3 ks zeleninový bujon + 0.1 ks česnek + 0.03 kg smetana na šlehání + 0.13 kg mleté maso + 0.25 ks vejce + 0.3 ks cibule + 0.02 kg strouhanka + 0.25 kg brambory",
+            "recept": "https://magazin.recepty.cz/clanky/ikea-prozradila-originalni-recept-na-masove-kulicky-792.html"
+        },
+        "sv2":{
+            "co": "smetanová věc co dělá maminka a natrhají do toho borůvky",
+            "kolik": "0.05 kg piškoty + 0.04 kg jogurt + 0.04 kg zakysaná smetana"
+        },
+        "vecere":{
+            "co": "čínské nudle wokin",
+            "kolik": "0.15 kg čínské nudle + 0.1 ks česnek + 0.3 ks mražená zeleninová směs na čínu + 0.05 kg kuřecí maso + 0.005 kg sojovka"
+        }
+    },
+    "26":{
+        "sv1":{
+            "co": "sušenka",
+            "kolik": "1 ks sušenka"
+        },
+        "obed":{
+            "co": "rohlík s random puťákovýma srajdama",
+            "kolik": "1 ks středně velká bageta + 0.07 ks salám + 1 ks tavený sýr + 1 ks paštika"
+        },
+        "sv2":{
+            "co": "zelenina",
+            "kolik": "0.5 ks okurka + 1 ks mrkev"
+        },
+        "vecere":{
+            "co": "kekely a čínské mňamky",
+            "kolik": "0.8 ks kekel + 1 ks čínská polévka"
+        }
+    },
+    "27":{
+        "snidane":{
+            "co": "chleby s random věcma",
+            "kolik": "0.2 ks chleba + 1 ks tavený sýr + 0.07 kg salám"
+        },
+        "sv1":{
+            "co": "sušenka",
+            "kolik": "1 ks sušenka"
+        },
+        "obed":{
+            "co": "svíčková s brusinkama a knedlíkem",
+            "kolik": "0.1 kg hovězí na svíčkovou + 0.08 kg mzažená zelenina na svíčkovou + 0.05 kg šlehačka + 0.05 kg houskový knedlík + 0.06 kg mléko + 0.005 kg máslo + 0.01 kg hrubá mouka + 0.5 ks vejce + 0.06 kg houska",
+            "recept": ""
+        },
+        "sv2":{
+            "co": "perník",
+            "kolik": "0.05 kg polohrubá mouka + 0.04 kg moučkový cukr + 0.2 ks prášek do perníku + 0.2 ks jedlá soda + 0.02 kg švestková povidla + 0.02 kg hrozinky + 0.05 kg čokoláda na polevu",
+            "recept":"https://www.recepty.cz/recept/domaci-pernik-2463"
+        },
+        "vecere":{
+            "co": "hrášková polévka + knedlíky z vajíčkem",
+            "kolik": "3 ks vejce + 0.2 kg houskové knedlíky"
+        }
+    },
+    "28":{
+        "sv1":{
+            "co": "ovoce",
+            "kolik": "1 ks ovoce",
+            "recept": ""
+        },
+        "obed":{
+            "co": "tvarohové knedlíky",
+            "kolik": "0.2 kg mražené ovocné knedlíky + 0.0625 kg měkký tvaroh + 0.05 kg zakysaná smetana + 0.07 kg červená řepa + 0.05 kg brambory + 0.02 kg zakysaná smetana",
+            "recept": "https://recepty.vareni.cz/tvarohove-knedliky-se-smetanou-a-jahodami/"
+        },
+        "sv2":{
+            "co": "zmrzlina",
+            "kolik": "1 ks zmrzlina"
+        },
+        "vecere":{
+            "co": "párky s čočkou a chlebem, berny udělá vařený vejce",
+            "kolik": "0.05 kg čočka + 2 ks párek + 1 ks kyselá okurka + 1 ks vejce"
+        }
+    },
+    "29":{
+        "sv1":{
+            "co": "jogurt",
+            "kolik": "1 ks jogurt na svačinu"
+        },
+        "obed":{
+            "co": "indická směs s marinovaným tofu s rýží",
+            "kolik": "0.12 kg tofu sunfood + 0.07 kg rýže + 0.1 kg mražená indická zeleninová směs + 0.02 kg kokosové mléko + 0.01 kg kukuřičný škrob + 0.12 kg rýže",
+            "recept": "zmrazit tofu, pak z něj vymačkat vodu a ono nasaje marinádu, do které se to naloží"
+        },
+        "sv2":{
+            "co": "zmrzlina",
+            "kolik": "1 ks zmrzlina"
+        },
+        "vecere":{
+            "co": "krupicová kaše",
+            "kolik": "0.06 kg krupice + 0.3 kg mléko + 0.02 kg máslo + 0.02 kg cukr moučka"
+        }
+    },
+    "30":{
+        "sv1":{
+            "co": "ovoce",
+            "kolik": "1 ks nějaký ovoce na sváču"
+        },
+        "obed":{
+    	    "co": "",
+            "kolik": ""
+        },
+        "sv2":{
+            "co": "jogurt",
+            "kolik": "1 ks jogurt na svačinu"
+        },
+        "vecere":{
+            "co": "smetanová omáčka s gnocchi",
+            "kolik": "0.+ kg smetana + 0.25 kg gnocchi + 0.02 kg parmezán + 0.05 kg cibule + 0.15 kg kuřecí maso + 0.07 kg slanina + 0.1 kg špenát"
+        }
+    },
+    "31":{
+        "sv1":{
+            "co": "ovoce",
+            "kolik": "1 ks ovoce na svačinu"
+        },
+        "obed":{
+            "co": "random italská polévka + těstoviny s pestem",
+            "kolik": "0.2 kg těstoviny + 0.01 kg slunečnicová semínka + 0.07 kg pesto + 0.05 kg strouhaný parmezán"
+        },
+        "sv2":{
+            "co": "slaný štrůdl",
+            "kolik": "0.2 ks listové těsto na štrůdl + 0.05 kg sýr + 0.05 kg špenát + 0.02 kg rajčata"
+        },
+        "vecere":{
+            "co": "chickin",
+            "kolik": "0.2 kg kuře na stripsy + 0.2 kg hranolky + 0.1 kg věci na dipy chickin + 0.05 kg koleslav + 0.05 kg kukuřičné lupínky",
+            "recept": ""
+        }
+    },
+    "1":{
+        "sv1":{
+            "co": "ovoce",
+            "kolik": "1 ks ovoce na svačinu"
+        },
+        "obed":{
+            "co": "buchtičky se šodó",
+            "kolik": "8 ks buchtičky na šodó + 187.5 kg mléko + 0.05 kg cukr krupice + 0.25 ks vanilkový cukr + 0.25 ks vanilkový pudink",
+            "recept": "https://www.vareni.cz/recepty/buchticky-se-sodo/"
+        },
+        "sv2":{
+            "co": "jogurt",
+            "kolik": "1 ks jogurt"
+        },
+        "vecere":{
+            "co": "grilovaný prase a tak",
+            "kolik": "0.13 kg maso na gril + 0.1 kg random zelenina ke grilu + 0.02 kg cuketa na grilování + 0.7 kg hermelíny na gril"
+        }
+    },
+    "2":{
+        "sv1":{
+            "co": "ovoce",
+            "kolik": "1 ks ovoce na svačinu"
+        },
+        "obed":{
+            "co": "",
+            "kolik": "0 kg nic"
+        },
+        "sv2":{
+            "co": "",
+            "kolik": "0 kg nic"
+        },
+        "vecere":{
+            "co": "",
+            "kolik": "0 kg nic"
+        }
+    }
+}
+
+
